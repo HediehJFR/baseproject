@@ -43,7 +43,7 @@ R_version	name	version	date_time	hash	binary_location	status
 4.2.2	broom	1.0.2	2023-04-18T16:21:56Z	81cfdf400f65f02c2dfb6d6a7337f29f	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/broom/1.0.2/81cfdf400f65f02c2dfb6d6a7337f29f/broom	available
 4.2.2	BSgenome	1.66.2	2023-04-18T16:21:56Z	c9057ff84da95d12b65fa234f273099a	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/BSgenome/1.66.2/c9057ff84da95d12b65fa234f273099a/BSgenome	available
 4.2.2	bslib	0.4.2	2023-04-18T16:21:58Z	047b74bdce38a577662f7988400d7b86	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/bslib/0.4.2/047b74bdce38a577662f7988400d7b86/bslib	available
-4.2.2	cachem	1.0.6	2023-04-18T16:22:00Z	b565f3aed3855b6b9ea508ca68202d28	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/cachem/1.0.6/b565f3aed3855b6b9ea508ca68202d28/cachem	available
+4.2.2	cachem	1.0.7	2023-04-25T17:11:35Z	809a3872dfc0408d8d32652278f10221	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/cachem/1.0.7/809a3872dfc0408d8d32652278f10221/cachem	available
 4.2.2	callr	3.7.3	2023-04-18T16:22:00Z	48a52435abd7914f7472291e4be29cd7	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/callr/3.7.3/48a52435abd7914f7472291e4be29cd7/callr	available
 4.2.2	car	3.1.1	2023-04-18T16:22:01Z	70a9cbfa0dbfdc6f0be793c1c6387892	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/car/3.1-1/70a9cbfa0dbfdc6f0be793c1c6387892/car	available
 4.2.2	carData	3.0.5	2023-04-18T16:22:01Z	3f273ca80d0face20cb870e4c83b0112	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/carData/3.0-5/3f273ca80d0face20cb870e4c83b0112/carData	available
@@ -51,7 +51,7 @@ R_version	name	version	date_time	hash	binary_location	status
 4.2.2	cellranger	1.1.0	2023-04-18T16:22:01Z	0115ac534353e25ef22628a40435c4d8	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/cellranger/1.1.0/0115ac534353e25ef22628a40435c4d8/cellranger	available
 4.2.2	checkmate	2.1.0	2023-04-18T16:22:01Z	83244b9051ed98b44d62cdcbdfc03949	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/checkmate/2.1.0/83244b9051ed98b44d62cdcbdfc03949/checkmate	available
 4.2.2	class	7.3.20	2023-04-18T16:22:01Z	257a0023fd7205addb2cf726f7227801	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/class/7.3-20/257a0023fd7205addb2cf726f7227801/class	available
-4.2.2	cli	3.4.1	2023-04-18T16:22:02Z	e5aa0adaeff4dabcff3c156d4a35ded3	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/cli/3.4.1/e5aa0adaeff4dabcff3c156d4a35ded3/cli	available
+4.2.2	cli	3.6.1	2023-04-25T17:11:35Z	a1eb396f18174a9752ade55d15f2a8d7	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/cli/3.6.1/a1eb396f18174a9752ade55d15f2a8d7/cli	available
 4.2.2	clipr	0.8.0	2023-04-18T16:22:02Z	d5c4535c6954b97a965cfbbd95aeabd5	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/clipr/0.8.0/d5c4535c6954b97a965cfbbd95aeabd5/clipr	available
 4.2.2	cluster	2.1.4	2023-04-18T16:22:02Z	0bcf167fbe11f9014c29df7737b9f1ff	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/cluster/2.1.4/0bcf167fbe11f9014c29df7737b9f1ff/cluster	available
 4.2.2	coda	0.19.4	2023-04-18T16:22:03Z	d21410a536daaaa1b60196725b7313a3	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/coda/0.19-4/d21410a536daaaa1b60196725b7313a3/coda	available
@@ -59,6 +59,7 @@ R_version	name	version	date_time	hash	binary_location	status
 4.2.2	colorspace	2.0.3	2023-04-18T16:22:03Z	b0f4b63188439cd24a316df3904e9941	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/colorspace/2.0-3/b0f4b63188439cd24a316df3904e9941/colorspace	available
 4.2.2	commonmark	1.8.1	2023-04-18T16:22:04Z	097be335326f9a04950332005a8f664d	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/commonmark/1.8.1/097be335326f9a04950332005a8f664d/commonmark	available
 4.2.2	compiler	4.2.2	2023-04-18T16:22:04Z	9a093c53af3c87a149625bfc4f7b10b4	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/compiler/4.2.2/9a093c53af3c87a149625bfc4f7b10b4/compiler	base
+4.2.2	conflicted	1.2.0	2023-04-25T17:11:36Z	f4acbfa395a3363d6005f11513339ae1	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/conflicted/1.2.0/f4acbfa395a3363d6005f11513339ae1/conflicted	active
 4.2.2	corrplot	0.92	2023-04-18T16:22:04Z	d8ac409ff8ca3235fa227c853f852dde	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/corrplot/0.92/d8ac409ff8ca3235fa227c853f852dde/corrplot	available
 4.2.2	cowplot	1.1.1	2023-04-18T16:22:04Z	a4f58983d7e8bf1f05dea2001e7ad31c	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/cowplot/1.1.1/a4f58983d7e8bf1f05dea2001e7ad31c/cowplot	available
 4.2.2	cpp11	0.4.3	2023-04-18T16:22:05Z	b38ef8ffff112d2fffb746584c89a02b	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/cpp11/0.4.3/b38ef8ffff112d2fffb746584c89a02b/cpp11	available
@@ -93,7 +94,7 @@ R_version	name	version	date_time	hash	binary_location	status
 4.2.2	evaluate	0.19	2023-04-18T16:22:13Z	4906782aa8f4f9d2e111aee129c5101f	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/evaluate/0.19/4906782aa8f4f9d2e111aee129c5101f/evaluate	available
 4.2.2	fansi	1.0.3	2023-04-18T16:22:13Z	2a2e296147879506a9afce7dc5c084a7	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/fansi/1.0.3/2a2e296147879506a9afce7dc5c084a7/fansi	available
 4.2.2	farver	2.1.1	2023-04-18T16:22:13Z	1bfeb113ded2160d1153c8db77c71e2d	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/farver/2.1.1/1bfeb113ded2160d1153c8db77c71e2d/farver	available
-4.2.2	fastmap	1.1.0	2023-04-18T16:22:13Z	0a4c020e9d6a10e4850fb8cdb7635b4a	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/fastmap/1.1.0/0a4c020e9d6a10e4850fb8cdb7635b4a/fastmap	available
+4.2.2	fastmap	1.1.1	2023-04-25T17:11:36Z	678218a329ed8bdae7eec1823715ece1	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/fastmap/1.1.1/678218a329ed8bdae7eec1823715ece1/fastmap	available
 4.2.2	filelock	1.0.2	2023-04-18T16:22:13Z	9514f37889b1c1a557d3a7f150994e7c	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/filelock/1.0.2/9514f37889b1c1a557d3a7f150994e7c/filelock	available
 4.2.2	fission	1.18.0	2023-04-18T16:22:14Z	70d39cbb1563f56018de4614f1f0bdbe	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/fission/1.18.0/70d39cbb1563f56018de4614f1f0bdbe/fission	available
 4.2.2	fontawesome	0.4.0	2023-04-18T16:22:14Z	097206286806b78b4ab993c349dfa09a	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/fontawesome/0.4.0/097206286806b78b4ab993c349dfa09a/fontawesome	available
@@ -256,7 +257,7 @@ R_version	name	version	date_time	hash	binary_location	status
 4.2.2	Rgraphviz	2.42.0	2023-04-18T16:23:01Z	ad16023eb5c026eb1e178240b3c0fb4b	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/Rgraphviz/2.42.0/ad16023eb5c026eb1e178240b3c0fb4b/Rgraphviz	available
 4.2.2	Rhtslib	2.0.0	2023-04-18T16:23:01Z	a25e319220f3d54743f678348adb90b1	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/Rhtslib/2.0.0/a25e319220f3d54743f678348adb90b1/Rhtslib	available
 4.2.2	rjson	0.2.21	2023-04-18T16:23:02Z	1b521892ad5e6ea0990c56830e1070ac	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/rjson/0.2.21/1b521892ad5e6ea0990c56830e1070ac/rjson	available
-4.2.2	rlang	1.0.6	2023-04-18T16:23:02Z	3e683fb4003b872c3bcbe8f4c1f0ee94	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/rlang/1.0.6/3e683fb4003b872c3bcbe8f4c1f0ee94/rlang	available
+4.2.2	rlang	1.1.0	2023-04-25T17:11:36Z	6f2a27c4b96e3f88586c638426016242	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/rlang/1.1.0/6f2a27c4b96e3f88586c638426016242/rlang	available
 4.2.2	rmarkdown	2.19	2023-04-18T16:23:03Z	a6d68f4623603324b306ceaa27643ec9	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/rmarkdown/2.19/a6d68f4623603324b306ceaa27643ec9/rmarkdown	available
 4.2.2	rnaseqGene	1.23.0	2023-04-18T16:23:04Z	1b5a9b64c2708b93521f8a8389ed7d82	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/rnaseqGene/1.23.0/1b5a9b64c2708b93521f8a8389ed7d82/rnaseqGene	available
 4.2.2	roxygen2	7.2.3	2023-04-18T16:23:05Z	273b5193555ab95bb0393118b05fc3d7	C:/Users/jafa05/Documents/ds_2023/ds_2023/r_4_2_cache/library/roxygen2/7.2.3/273b5193555ab95bb0393118b05fc3d7/roxygen2	available
